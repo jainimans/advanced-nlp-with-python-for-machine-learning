@@ -1,9 +1,9 @@
 Text,Sentiment Label,Sentiment Score
-"Your products are excellent. I really love the quality! However,  delivery to my location in Los Angeles was a bit slow. abbey@email.com",NEGATIVE,0.7141860723495483
-The customer service team in New York was helpful in resolving my issue. I appreciate the assistance. brian@email.com,POSITIVE,0.9995564818382263
-The new features in the latest release are fantastic! They have greatly improved the user experience in San Francisco.,POSITIVE,0.9998694658279419
-"The product didn't meet my expectations,  and I'm disappointed. I hope you can address the issues in Chicago. My email address is emailme@email.com",NEGATIVE,0.9975793957710266
-"Your products are not good. I really don't like the quality! However,  delivery to my location in Los Angeles was a bit slow. abbey@email.com",NEGATIVE,0.9996762275695801
-"The customer service team in San Francisco was not helpful in resolving my issue. But,  I appreciate the assistance. brian@email.com",POSITIVE,0.9966222047805786
-The new features in the latest release are not fantastic! They have not greatly improved the user experience in San Francisco.,NEGATIVE,0.9997161030769348
-"The product didn't meet my expectations,  and I'm disappointed. I hope you can address the issues in London. My email address is emailme@email.com",NEGATIVE,0.9982671737670898
+"Your products are excellent. I really love the quality! However,  delivery to my location in Los Angeles was a bit slow. abbey@email.com",4 stars,0.6435898542404175
+The customer service team in New York was helpful in resolving my issue. I appreciate the assistance. brian@email.com,4 stars,0.5543171763420105
+The new features in the latest release are fantastic! They have greatly improved the user experience in San Francisco.,5 stars,0.8357023596763611
+"The product didn't meet my expectations,  and I'm disappointed. I hope you can address the issues in Chicago. My email address is emailme@email.com",2 stars,0.5596577525138855
+"Your products are not good. I really don't like the quality! However,  delivery to my location in Los Angeles was a bit slow. abbey@email.com",2 stars,0.5921107530593872
+"The customer service team in San Francisco was not helpful in resolving my issue. But,  I appreciate the assistance. brian@email.com",3 stars,0.4963769018650055
+The new features in the latest release are not fantastic! They have not greatly improved the user experience in San Francisco.,3 stars,0.5981982946395874
+"The product didn't meet my expectations,  and I'm disappointed. I hope you can address the issues in London. My email address is emailme@email.com",2 stars,0.5675451755523682
