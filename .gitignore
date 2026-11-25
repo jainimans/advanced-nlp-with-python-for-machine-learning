@@ -2,3 +2,7 @@
 node_modules
 .tmp
 npm-debug.log
+Chapter 5/my_trained_roberta/
+Chapter 5/roberta-base-modified/
+Chapter 5/roberta-base-peft/
+*.zip
